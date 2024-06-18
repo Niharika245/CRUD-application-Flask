@@ -20,7 +20,7 @@ Step 6: Implement Security Best Practices install flask-wtf pip install Flask-WT
 
 This completes the basic implementation of a CRUD application using Flask.
 
-You can run this application by executing python app.py and navigating to http://127.0.0.1:5000 in your web browser.
+You can run this application by executing python app.py and navigating to  http://127.0.0.1:5000 in your web browser.
 
 #I used python 3.7 version Make sure to install below packages before running the project on windows in command prompt: pip install Flask pip install SQLAlchemy pip install Flask-WTF pip install email_validator
 
@@ -42,4 +42,4 @@ Serving Flask app "app.py"
 Environment: production WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
 Debug mode: on
 Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-Open your web browser and navigate to http://127.0.0.1:5000/ to see your CRUD application in action.
+Open your web browser and navigate to  http://127.0.0.1:5000/ to see your CRUD application in action.
